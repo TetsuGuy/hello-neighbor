@@ -1,4 +1,4 @@
-# hello-neighbor
+# hi-neighbor
 
 ## Project setup
 ```
