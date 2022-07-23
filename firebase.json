@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "hi-neighbor-3aca3",
     "public": "public",
     "ignore": [
       "firebase.json",
