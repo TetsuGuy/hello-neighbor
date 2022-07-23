@@ -35,16 +35,20 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.house {
+    background: rgb(221, 221, 221);
+}
 .floor {
     display: inline-flex;
     width: 100%;
     border: 1px solid lightgray;
-    background: rgb(221, 221, 221);
     .ap {
         margin: 1rem;
         flex: 1;
         display: flex;
         height: 100px;
+        min-width: 250px;
+        overflow: hidden;
         background: white;
         border: 1px solid lightgray;
         > * {
