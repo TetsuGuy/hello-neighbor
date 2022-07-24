@@ -1,34 +1,20 @@
 # hi-neighbor
 
-## Project setup
-```
-npm install
-```
+## Features
+### Floormap 🏠
+- who lives where
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Interact with your neighbors 🤷‍♂️🤷‍♀️
+- write private messages
+- tell them you have their package
+- complain! :D
+- virtual "knock"
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Calendar 📆
+- construction
+- cleanup
+- garbage collection
+- nearby events
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Trade 🤝🎁💰
+- sell, buy, give away
